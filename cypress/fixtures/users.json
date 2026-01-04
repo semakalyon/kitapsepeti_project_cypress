@@ -1,0 +1,11 @@
+{
+  "validUser": {
+    "email": "hawec37991@m3player.com",
+    "password": "LD.E*suyXuJ5pu"
+  },
+
+  "invalidUser": {
+    "email": "test@camjoint.com",
+    "password": "test123"
+  }
+}

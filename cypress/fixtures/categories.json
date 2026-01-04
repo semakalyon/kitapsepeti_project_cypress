@@ -1,0 +1,8 @@
+[
+  { "title": "ROMAN", "expectedKeyword": "roman" },
+  { "title": "BİLİM KURGU", "expectedKeyword": "bilim" },
+  { "title": "ÇOCUK KİTAPLARI", "expectedKeyword": "çocuk" },
+  { "title": "ÇİZGİ ROMAN", "expectedKeyword": "çizgi" },
+  { "title": "SINAV KİTAPLARI", "expectedKeyword": "sınav" },
+  { "title": "ÇOK SATANLAR", "expectedKeyword": "çok satan" }
+]

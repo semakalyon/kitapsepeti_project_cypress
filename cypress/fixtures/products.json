@@ -1,0 +1,15 @@
+{
+  "validProduct": {
+    "name": "İnsanın 8 Yeteneği",
+    "slug": "insanin-8-yetenegi",
+    "author": "Cathryn Michon",
+    "publisher": "Panama Yayıncılık",
+    "quantity": 1
+  },
+  "searchProduct": {
+    "keyword": "İnsanın 8 Yeteneği"
+  },
+  "invalidProduct": {
+    "keyword": "asdasdasd123"
+  }
+}

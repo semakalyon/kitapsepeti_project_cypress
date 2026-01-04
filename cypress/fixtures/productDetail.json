@@ -1,0 +1,17 @@
+{
+  "product": {
+    "name": "İnsanın 8 Yeteneği",
+    "slug": "insanin-8-yetenegi",
+    "author": "Cathryn Michon",
+    "publisher": "Panama Yayıncılık",
+    "price": "210,00",
+    "specifications": {
+      "Türü": "Yoga",
+      "Kapak": "Ciltsiz",
+      "Sayfa Sayısı": "390",
+      "ISBN": "9789752444447",
+      "Basım Yılı": "2017",
+      "Kağıt Tipi": "Hamur"
+    }
+  }
+}
