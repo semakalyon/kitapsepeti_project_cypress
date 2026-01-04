@@ -24,6 +24,7 @@ Assertions are added to validate critical user actions and system responses.
 
 Purpose of This Project!!
 
-QA automation practice
-Improving Cypress & POM skills
-Demonstrating E2E testing knowledge in technical interviews
+QA automation practice, 
+ Improving Cypress & POM skills,
+ Demonstrating E2E testing knowledge in technical interviews
+
